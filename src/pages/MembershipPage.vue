@@ -10,7 +10,7 @@
       <v-col cols="12" md="3" class="ma-4">
         <v-card class="card" id="1_month" style="background-color:silver ;">
           <v-card-title class="month">1 Month</v-card-title>
-          <v-card-subtitle class="amount">&#8377 4,999/-</v-card-subtitle>
+          <v-card-subtitle class="amount">&#8377;4,999/-</v-card-subtitle>
           <v-card-text id="points">
             Use of locker<br />
             24/7 GYM access <br />
@@ -22,7 +22,7 @@
       <v-col cols="12" md="3" class="ma-4">
         <v-card class="card" id="6_month" style="background-color: gold;">
           <v-card-title class="month">6 Month</v-card-title>
-          <v-card-subtitle class="amount">&#8377 6,999/-</v-card-subtitle>
+          <v-card-subtitle class="amount">&#8377; 6,999/-</v-card-subtitle>
           <v-card-text id="points">
             Use of locker <br />
             24/7 GYM access <br />
@@ -35,7 +35,7 @@
       <v-col cols="12" md="3" class="ma-4">
         <v-card class="card" id="annnual" style="background-color: palevioletred;">
           <v-card-title class="month">Annual</v-card-title>
-          <v-card-subtitle class="amount">&#8377 9,999/-</v-card-subtitle>
+          <v-card-subtitle class="amount">&#8377; 9,999/-</v-card-subtitle>
           <v-card-text id="points">
             Use of locker <br />
             24/7 GYM access <br />

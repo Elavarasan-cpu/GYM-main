@@ -2,7 +2,7 @@
     <v-container>
     <v-row>
         <v-col>
-            <div class="text-h2 text-center ma-3"  id="h2">Amenities Page</div>
+            <div class="text-h2 text-center ma-3"  id="h2">Amenities</div>
         </v-col>
     </v-row>
     <v-row>
